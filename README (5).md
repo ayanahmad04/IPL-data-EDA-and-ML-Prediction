@@ -1,5 +1,5 @@
 
-# IPL Match Winner Prediction
+# IPL EDA and Match Winner Prediction
 
 This project uses machine learning to predict the outcome of an IPL (Indian Premier League) match during the second innings based on real-time match data.
 
